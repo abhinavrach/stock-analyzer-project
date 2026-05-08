@@ -46,3 +46,4 @@ This provides a basic but effective rule-based trading approach.
 
 repo link: https://github.com/abhinavrach/stock-analyzer-project
 github link: https://github.com/abhinavrach
+wesite link: https://stock-analyzer-cuqx3beyknfxs57przb26m.streamlit.app/
